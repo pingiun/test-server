@@ -12,7 +12,7 @@
   environment.systemPackages = with pkgs; [
     bash
     jc
-
+    htop
   ];
 
   # Loads all environment variables into shell. Remove this if you don't want this enabled
